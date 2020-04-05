@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="197.53mm" height="21.719mm" version="1.1" viewBox="0 0 197.53 21.719" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath6860">
+   <path d="m2789 3984h1305v9612h-1305v-9612"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(43.579 -113.78)">
+  <g transform="matrix(0 .021167 .021167 0 -130.87 51.79)" stroke-width="4.7244">
+   <g clip-path="url(#clipPath6860)" stroke-width="4.7244">
+    <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244">
+     <path d="m3420 13441h43"/>
+     <path d="m3460 13444h-37"/>
+     <path d="m3463 13160h-43"/>
+     <path d="m3402 5410 30 7750"/>
+     <path d="m3481 5410-30 7750"/>
+     <path d="m3460 13444 3-3"/>
+     <path d="m3423 13444-3-3v-281"/>
+     <path d="m3463 13160v281"/>
+     <path d="m2941 5223h1001"/>
+    </g>
+    <g transform="matrix(.66141 -.75002 .75002 .66141 3442.5 4656.5)" stroke-width="4.7244">
+     <path d="m-592.84 469.31c-105.98-133.53-163.66-298.92-163.66-469.31" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244"/>
+    </g>
+    <g transform="matrix(-.99863 .05242 -.05242 -.99863 3442.5 4656.5)" stroke-width="4.7244">
+     <path d="m-469.93-592.06c133.71-105.84 299.31-163.44 469.93-163.44" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244"/>
+    </g>
+    <g transform="rotate(180 1739.8 2084.8)" stroke-width="4.7244">
+     <path d="m0 33.5c-18.502 0-33.5-14.998-33.5-33.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244"/>
+    </g>
+    <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244">
+     <path d="m3371 4169.5c0-18.502 14.998-33.5 33.5-33.5"/>
+     <path d="m3404 4136h75"/>
+     <path d="m3371 5223v-1054"/>
+     <path d="m3404 5407h-33v1"/>
+    </g>
+    <g transform="matrix(.05022 .99874 -.99874 .05022 3442.5 4656.5)" stroke-width="4.7244">
+     <path d="m753.5 0c0 25.208-1.2684 50.4-3.8002 75.481" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244"/>
+    </g>
+    <path d="m3484 5409v2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244"/>
+    <g transform="matrix(.05634 -.99841 .99841 .05634 3442.5 4656.5)" stroke-width="4.7244">
+     <path d="m-750.7 84.888c-3.1954-28.183-4.7969-56.524-4.7969-84.888" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244"/>
+    </g>
+    <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244">
+     <path d="m3512 4169v1054"/>
+     <path d="m3512 5408v-1h-33"/>
+     <path d="m3399 5411v-2"/>
+    </g>
+    <g transform="matrix(.09372 -.9956 .9956 .09372 3442.5 4656.5)" stroke-width="4.7244">
+     <path d="m-755.97 28.387c-0.35608-9.4581-0.53418-18.922-0.53418-28.387" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244"/>
+    </g>
+    <g transform="matrix(-.99842 .05625 -.05625 -.99842 3442.5 4656.5)" stroke-width="4.7244">
+     <path d="m-28.424-754.97c9.4706-0.35565 18.947-0.53351 28.424-0.53351" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.7244"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

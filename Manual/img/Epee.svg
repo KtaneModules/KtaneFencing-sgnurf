@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="212.92mm" height="26.547mm" version="1.1" viewBox="0 0 212.92 26.547" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath5181">
+   <path d="m2967 3003h1533v10339h-1533v-10339"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(35.396 -143.12)">
+  <g transform="matrix(0 .021167 .021167 0 -101.92 77.358)">
+   <g clip-path="url(#clipPath5181)" stroke-miterlimit="10" stroke-width="4.7244">
+    <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+     <path d="m3703 13001h-52"/>
+     <path d="m3651 13190h52"/>
+     <path d="m3752 4497-52 8504"/>
+     <path d="m3601 4497 52 8504"/>
+     <path d="m3677 4497v8504"/>
+     <path d="m3651 13001v189"/>
+     <path d="m3703 13001v189"/>
+     <path d="m3970 4497h-473"/>
+     <path d="m4348 4043h-1229"/>
+    </g>
+    <g transform="rotate(180 1985.2 2059.8)">
+     <path d="m-378.5 0c0-208.49 169.46-377.5 378.5-377.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.7244"/>
+    </g>
+    <g transform="rotate(-90,3808.5,311)">
+     <path d="m-378.5 0c0-208.49 169.46-377.5 378.5-377.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.7244"/>
+    </g>
+    <path d="m4348 4119v-76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m3119 4119v-76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="rotate(90,249,3475.5)">
+     <path d="m-70.5 0c0-38.936 31.564-70.5 70.5-70.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.7244"/>
+    </g>
+    <g transform="rotate(90,202,3428.5)">
+     <path d="m0 70.5c-38.936 0-70.5-31.564-70.5-70.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4.7244"/>
+    </g>
+    <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+     <path d="m3630 3155h94"/>
+     <path d="m3559 4043v-817"/>
+     <path d="m3795 3226v817"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

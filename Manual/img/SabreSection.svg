@@ -1,0 +1,14 @@
+<svg width="16.785mm" height="20.985mm" version="1.1" viewBox="0 0 16.785 20.985" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath8582">
+   <path d="m5291 8714h1542v1294h-1542v-1294"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(.8 0 0 .8 -84.14 -42.052)" stroke-width="5">
+  <g transform="matrix(0 .021167 .021167 0 -82.479 -62.634)" >
+   <g clip-path="url(#clipPath8582)">
+    <path d="m5443 9361 1238-495v990l-1238-495" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+  </g>
+ </g>
+</svg>
