@@ -19,11 +19,11 @@ namespace Assets.Fencing.Scripts.Extensions
         public static void Log(this Rule rule, KMBombModule bomb)
         {
             bomb.LogFormat("Selected rule: {0}", rule.Name);
-            bomb.Log("With the conditions");
+            bomb.Log("With the condition(s) :");
             
             foreach (IRulePart rulePart in rule.ruleParts)
             {
-                bomb.Log(rulePart.Description);
+                bomb.LogFormat(" - {0}", rulePart.Description);
             }
 
             bomb.LogFormat("Expected Solution : {0}", rule.Solution.Join(","));
